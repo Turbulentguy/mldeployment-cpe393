@@ -1,3 +1,5 @@
+## Sawitt Ngamvilaisiriwong 65070503469
+
 ## 🔹 Setup steps
 1. Fork project from instructor's GitHub.
 2. Run **train.py**.
